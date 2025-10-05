@@ -10,11 +10,11 @@
 ## 📚 42 Projects
 | Project | Description | Status |
 |---------|-------------|--------|
-| [Libft](https://github.com/dilanurkaymak/libft) | My first C library – reimplementation of standard libc functions | ✅ Done |
+| [libft](https://github.com/dilanurkaymak/libft) | My first C library – reimplementation of standard libc functions | ✅ Done |
 | [ft_printf](https://github.com/dilanurkaymak/ft_printf) | Reimplementation of the printf function in C with format specifiers | ✅ Done |
-| [Get Next Line](https://github.com/dilanurkaymak/get_next_line) | Read a line from a file descriptor | ✅ Done |
+| [get next line](https://github.com/dilanurkaymak/get_next_line) | Read a line from a file descriptor | ✅ Done |
 | [Born2BeRoot](https://github.com/dilanurkaymak/Born2BeRoot) | Learned Linux basics, shell scripting, user & group management, boot loader, and system security fundamentals | ✅ Done |
-| [Push Swap](https://github.com/dilanurkaymak/push_swap) | Sorting algorithm using stack operations | 🔄 In Progress |
+| [push swap](https://github.com/dilanurkaymak/push_swap) | Sorting algorithm using stack operations | 🔄 In Progress |
 
 
 ---
