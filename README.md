@@ -10,7 +10,7 @@
 ## 📚 42 Projects
 | Project | Description | Status |
 |---------|-------------|--------|
-| [libft](https://github.com/dilanurkaymak/libft) | My first C library – reimplementation of standard libc functions | ✅ Done |
+| [libft](https://github.com/dilanurkaymak/libft) | My first C library – personal implementation of standard libc functions with additional utilities. | ✅ Done |
 | [ft_printf](https://github.com/dilanurkaymak/ft_printf) | Reimplementation of the printf function in C with format specifiers | ✅ Done |
 | [get next line](https://github.com/dilanurkaymak/get_next_line) | Read a line from a file descriptor | ✅ Done |
 | [Born2BeRoot](https://github.com/dilanurkaymak/Born2BeRoot) | Learned Linux basics, shell scripting, user & group management, boot loader, and system security fundamentals | ✅ Done |
