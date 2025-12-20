@@ -39,7 +39,7 @@
 ---
 
 ## 📫 Contact
-- 📧 Email: dilanurkaymak@gmail.com
+- 📧 Email: dilanurnkaymak@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/dilanurnigarkaymak](https://linkedin.com/in/dilanurnigarkaymak)  
 
 <!--
