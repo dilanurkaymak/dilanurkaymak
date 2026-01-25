@@ -1,4 +1,4 @@
-# 👋 Dilanur Kaymak
+
 
 ## 📚 Projects
 
