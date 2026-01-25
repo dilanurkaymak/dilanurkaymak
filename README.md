@@ -1,58 +1,57 @@
-
 # 👋 Hi, I'm Dilanur
 
-🎓 Student at **42 Istanbul** & **Marmara University (Computer Education and Instructional Technology - CEIT)**  
-💻 Passionate about programming, algorithms, educational technologies, and **cybersecurity**  
-🚀 Currently learning **C, Git, Linux basics, and security fundamentals**  
+🎓 **42 Istanbul** & **Marmara University**  
+📚 *Computer Education and Instructional Technology (CEIT)*  
+💻 Focused on **system programming, algorithms, and cybersecurity**  
+
+---
+
+## 🚀 About Me
+- 42 Istanbul student with strong interest in **low-level programming**
+- Enjoy solving algorithmic problems and understanding how systems work internally
+- Currently improving my skills in **C, Linux, Git, and system security**
+- Interested in **cybersecurity, ethical hacking, and system internals**
+- Long-term goal: contribute to **open-source** and security-related projects
 
 ---
 
 ## 📚 42 Projects
 | Project | Description | Status |
-|---------|-------------|--------|
-| [libft](https://github.com/dilanurkaymak/libft) | My first C library – personal implementation of standard libc functions with additional utilities. | ✅ Done |
-| [ft_printf](https://github.com/dilanurkaymak/ft_printf) | Reimplementation of the printf function in C with format specifiers | ✅ Done |
-| [get next line](https://github.com/dilanurkaymak/get_next_line) | Read a line from a file descriptor | ✅ Done |
-| [Born2BeRoot](https://github.com/dilanurkaymak/Born2BeRoot) | Learned Linux basics, shell scripting, user & group management, boot loader, and system security fundamentals | ✅ Done |
-| [push swap](https://github.com/dilanurkaymak/push_swap) | Sorting algorithm using stack operations | 🔄 In Progress |
-
+|--------|-------------|--------|
+| [libft](https://github.com/dilanurkaymak/libft) | Personal C library implementing standard libc functions and utilities | ✅ Done |
+| [ft_printf](https://github.com/dilanurkaymak/ft_printf) | Reimplementation of the `printf` function with format parsing | ✅ Done |
+| [get_next_line](https://github.com/dilanurkaymak/get_next_line) | Function to read a line from a file descriptor | ✅ Done |
+| [Born2BeRoot](https://github.com/dilanurkaymak/Born2BeRoot) | Linux system administration, user management, and security basics | ✅ Done |
+| [pipex](https://github.com/dilanurkaymak/pipex) | Unix pipe mechanism using fork, execve, and file descriptors | ✅ Done |
+| [so_long](https://github.com/dilanurkaymak/so_long) | 2D game using MiniLibX with map validation and event handling | ✅ Done |
+| [push_swap](https://github.com/dilanurkaymak/push_swap) | Stack-based sorting algorithm optimization | 🔄 In Progress |
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Technical Skills
 - **Languages**: C, Bash  
 - **Tools**: Git, Makefile, Linux  
-- **Concepts**: Algorithms, Memory Management, Data Structures  
+- **Concepts**:
+  - Algorithms & problem solving  
+  - Memory management  
+  - Data structures  
+  - Process & file descriptor handling  
 
 ---
 
-## 🎯 Interests & Goals
-- System programming & low-level development  
-- Algorithms & problem solving  
-- **Cybersecurity and ethical hacking**  
-- Educational technologies and learning platforms  
-- Open-source contribution in the future  
+## 🎯 Interests
+- System & low-level programming  
+- Algorithms and optimization  
+- **Cybersecurity & ethical hacking**  
+- Educational technologies  
+- Open-source development  
 
----
-
-  
 ---
 
 ## 📫 Contact
-- 📧 Email: dilanurnkaymak@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/dilanurnigarkaymak](https://linkedin.com/in/dilanurnigarkaymak)  
+- 📧 Email: **dilanurnkaymak@gmail.com**  
+- 💼 LinkedIn: [linkedin.com/in/dilanurnigarkaymak](https://linkedin.com/in/dilanurnigarkaymak)
 
-<!--
-**dilanurkaymak/dilanurkaymak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐️ *Always learning, always improving.*
