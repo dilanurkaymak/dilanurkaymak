@@ -21,7 +21,7 @@
 | [libft](https://github.com/dilanurkaymak/libft) | Personal C library implementing standard libc functions and utilities | ✅ Done |
 | [ft_printf](https://github.com/dilanurkaymak/ft_printf) | Reimplementation of the `printf` function with format parsing | ✅ Done |
 | [get_next_line](https://github.com/dilanurkaymak/get_next_line) | Function to read a line from a file descriptor | ✅ Done |
-| [Born2BeRoot](https://github.com/dilanurkaymak/Born2BeRoot) | Linux system administration, user management, and security basics | ✅ Done |
+| [born2BeRoot](https://github.com/dilanurkaymak/Born2BeRoot) | Linux system administration, user management, and security basics | ✅ Done |
 | [pipex](https://github.com/dilanurkaymak/pipex) | Unix pipe mechanism using fork, execve, and file descriptors | ✅ Done |
 | [so_long](https://github.com/dilanurkaymak/so_long) | 2D game using MiniLibX with map validation and event handling | ✅ Done |
 | [push_swap](https://github.com/dilanurkaymak/push_swap) | Stack-based sorting algorithm optimization | ✅ Done |
