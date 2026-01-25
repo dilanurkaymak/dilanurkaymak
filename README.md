@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dilanur
+# Hi, I'm Dilanur
 
 🎓 **42 Istanbul** & **Marmara University**  
 📚 *Computer Education and Instructional Technology (CEIT)*  
