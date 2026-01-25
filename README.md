@@ -1,12 +1,12 @@
 # Hi, I'm Dilanur
 
-🎓 **42 Istanbul** & **Marmara University**  
-📚 *Computer Education and Instructional Technology (CEIT)*  
-💻 Focused on **system programming, algorithms, and cybersecurity**
+**42 Istanbul** & **Marmara University**  
+*Computer Education and Instructional Technology (CEIT)*  
+Focused on **system programming, algorithms, and cybersecurity**
 
 ---
 
-## 🚀 About Me
+## About Me
 - Student at **42 Istanbul** with a strong interest in **low-level and system programming**
 - Enjoy working close to the system: memory, processes, and file descriptors
 - Comfortable with both **C (low-level)** and **Python (high-level problem solving & scripting)**
@@ -16,7 +16,7 @@
 
 ---
 
-## 📚 42 Projects
+##  42 Projects
 | Project | Description | Status |
 |--------|-------------|--------|
 | [libft](https://github.com/dilanurkaymak/libft) | Personal C library implementing standard libc functions and utilities | ✅ Done |
@@ -25,7 +25,7 @@
 | [Born2BeRoot](https://github.com/dilanurkaymak/Born2BeRoot) | Linux system administration, user management, and security basics | ✅ Done |
 | [pipex](https://github.com/dilanurkaymak/pipex) | Unix pipe mechanism using fork, execve, and file descriptors | ✅ Done |
 | [so_long](https://github.com/dilanurkaymak/so_long) | 2D game using MiniLibX with map validation and event handling | ✅ Done |
-| [push_swap](https://github.com/dilanurkaymak/push_swap) | Stack-based sorting algorithm optimization | 🔄 In Progress |
+| [push_swap](https://github.com/dilanurkaymak/push_swap) | Stack-based sorting algorithm optimization | ✅ Done |
 
 ---
 
@@ -41,7 +41,7 @@
 
 ---
 
-## 🎯 Interests
+## Interests
 - System & low-level programming  
 - Algorithms and optimization  
 - **Cybersecurity & ethical hacking**  
