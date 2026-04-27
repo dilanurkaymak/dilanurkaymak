@@ -1,11 +1,5 @@
 # Hi, I'm Dilanur
 
-**42 Istanbul** & **Marmara University**  
-*Computer Education and Instructional Technology (CEIT)*  
-Focused on **system programming, algorithms, and cybersecurity**
-
-# Hi, I'm Dilanur
-
 **CEIT Student @ Marmara University** 
 
 I am currently developing my skills in **Computer Vision** and **Cybersecurity**, exploring both how systems work and how to secure them.
