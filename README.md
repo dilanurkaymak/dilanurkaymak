@@ -1,6 +1,6 @@
 # Hi, I'm Dilanur Nigar Kaymak
 
-**CEIT Student @ Marmara University**
+**CEIT Student | Marmara University**
 
 I am focused on **Computer Vision**, **Cybersecurity**, and **System Programming**, exploring the intersection between software architecture and system security.
 
