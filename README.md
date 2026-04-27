@@ -4,56 +4,39 @@
 *Computer Education and Instructional Technology (CEIT)*  
 Focused on **system programming, algorithms, and cybersecurity**
 
----
+# Hi, I'm Dilanur
 
-## About Me
-- Student at **42 Istanbul** with a strong interest in **low-level and system programming**
-- Enjoy working close to the system: memory, processes, and file descriptors
-- Comfortable with both **C (low-level)** and **Python (high-level problem solving & scripting)**
-- Currently improving skills in **Linux, Git, algorithms, and system security**
-- Interested in **cybersecurity, ethical hacking, and system internals**
-- Long-term goal: contribute to **open-source** and security-oriented projects
+**CEIT Student @ Marmara University** 
+
+I am currently developing my skills in **Computer Vision** and **Cybersecurity**, exploring both how systems work and how to secure them.
 
 ---
 
-##  42 Projects
-| Project | Description | Status |
-|--------|-------------|--------|
-| [libft](https://github.com/dilanurkaymak/libft) | Personal C library implementing standard libc functions and utilities | ✅ Done |
-| [ft_printf](https://github.com/dilanurkaymak/ft_printf) | Reimplementation of the `printf` function with format parsing | ✅ Done |
-| [get_next_line](https://github.com/dilanurkaymak/get_next_line) | Function to read a line from a file descriptor | ✅ Done |
-| [Born2BeRoot](https://github.com/dilanurkaymak/Born2BeRoot) | Linux system administration, user management, and security basics | ✅ Done |
-| [pipex](https://github.com/dilanurkaymak/pipex) | Unix pipe mechanism using fork, execve, and file descriptors | ✅ Done |
-| [so_long](https://github.com/dilanurkaymak/so_long) | 2D game using MiniLibX with map validation and event handling | Done |
-| [push_swap](https://github.com/dilanurkaymak/push_swap) | Stack-based sorting algorithm optimization | ✅ Done |
+## 🚀 Projects & Interests
 
----
+### 🛡️ Cybersecurity & Systems
+- **System Security:** Researching Linux (Debian) administration, SSH security, and networking fundamentals.
+- **[Born2BeRoot](https://github.com/dilanurkaymak/Born2BeRoot)** – Secure server configuration and LVM management.
+- **[Pipex](https://github.com/dilanurkaymak/pipex)** – Implementation of Unix pipe mechanisms and process handling.
+
+### ⚙️ Algorithms & C Programming
+- **[Push_Swap](https://github.com/dilanurkaymak/push_swap)** – Data structures and sorting algorithm optimization.
+- **[Libft](https://github.com/dilanurkaymak/libft)** – Development of a custom C standard library.
+- **[Get_Next_Line](https://github.com/dilanurkaymak/get_next_line)** – Efficient file descriptor reading and memory management.
+
 
 ## 🛠️ Technical Skills
-- **Languages**: C, **Python**, Bash  
-- **Tools**: Git, Makefile, Linux  
+- **Languages**: C, **Python**, Bash, SQL  
+- **Tools**: Git, Makefile, Linux (Debian), Figma  
 - **Concepts**:
-  - Algorithms & problem solving  
-  - Memory management  
-  - Data structures  
-  - Process & file descriptor handling  
-  - Unix system calls  
+  - **Computer Vision**: Object Detection (YOLOv8), Image Segmentation, Thermal Image Processing
+  - **Cybersecurity**: Network Security, Ethical Hacking Basics, System Hardening
+  - **Algorithms**: Problem Solving, Optimization, Data Structures
+  - **System**: Memory Management, Process & File Descriptor Handling, Unix System Calls
 
----
 
-## Interests
-- System & low-level programming  
-- Algorithms and optimization  
-- **Cybersecurity & ethical hacking**  
-- Educational technologies  
-- Open-source development  
-
----
 
 ## 📫 Contact
 - 📧 Email: **dilanurnkaymak@gmail.com**  
 - 💼 LinkedIn: [linkedin.com/in/dilanurnigarkaymak](https://linkedin.com/in/dilanurnigarkaymak)
 
----
-
-⭐️ *Always learning, always improving.*
