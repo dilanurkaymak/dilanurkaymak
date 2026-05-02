@@ -22,7 +22,7 @@ I am focused on **Computer Vision**, **Cybersecurity**, and **System Programming
 ## Technical Skills
 
 - **Languages**: C, **Python**, Bash, SQL  
-- **Tools**: Git, Makefile, Linux, Figma  
+- **Tools**: Git, Makefile, Linux
 - **Concepts**:
   - **Computer Vision**: Object Detection, Image Segmentation, Thermal Image Processing
   - **Cybersecurity**: Network Security, Ethical Hacking Basics, System Hardening
