@@ -1,6 +1,6 @@
 # Hi, I'm Dilanur
 
-CEIT Student | Marmara University *
+CEIT Student | Marmara University 
 
 I am a software developer developing myself in system programming, cybersecurity, and computer vision, and eager to learn new technologies.
 
