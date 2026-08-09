@@ -17,7 +17,6 @@ I am a software developer developing myself in system programming, cybersecurity
 - **[Push_Swap](https://github.com/dilanurkaymak/push_swap)** – Optimization of sorting algorithms using stack-based data structures.
 - **[Libft](https://github.com/dilanurkaymak/libft)** – Writing standard `libc` functions from scratch in C.
 - **[Get_Next_Line](https://github.com/dilanurkaymak/get_next_line)** – File reading and memory management application.
-- 
 ---
 ## Contact
 - Email: **dilanurnkaymak@gmail.com**  
